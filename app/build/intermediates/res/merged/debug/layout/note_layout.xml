@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Note"
+        android:id="@+id/textView11"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:id="@+id/textView12"
+        android:layout_below="@+id/textView11"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:background="@color/background_floating_material_dark" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/clear"
+        android:src="@drawable/format_clear"
+        android:background="@drawable/shape_btn"
+        android:layout_alignTop="@+id/textView11"
+        android:layout_alignParentEnd="true" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/save"
+        android:layout_alignBottom="@+id/clear"
+        android:layout_toStartOf="@+id/clear"
+        android:src="@drawable/save"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/shape_btn" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/save_picture"
+        android:layout_alignBottom="@+id/save"
+        android:layout_toStartOf="@+id/save"
+        android:src="@drawable/ic_images"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/shape_btn" />
+
+    <EditText
+        android:layout_below="@id/textView11"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/memo_id"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:inputType="number"
+        android:hint="在此输入备忘录编号，不可重复"
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/memo_text"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="1"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:gravity="top|left"
+        android:hint="在此输入，字数不要超过30个字"
+        android:layout_below="@+id/memo_id"
+        android:layout_alignParentBottom="true" />
+
+</RelativeLayout>

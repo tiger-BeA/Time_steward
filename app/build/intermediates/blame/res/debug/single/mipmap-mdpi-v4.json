@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\AndroidProjects\\Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\sucai1.png",
+        "source": "E:\\AndroidProjects\\Project\\app\\src\\main\\res\\mipmap-mdpi\\sucai1.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\sucai5.jpg",
+        "source": "E:\\AndroidProjects\\Project\\app\\src\\main\\res\\mipmap-mdpi\\sucai5.jpg"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\sucai2.png",
+        "source": "E:\\AndroidProjects\\Project\\app\\src\\main\\res\\mipmap-mdpi\\sucai2.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\sucai3.png",
+        "source": "E:\\AndroidProjects\\Project\\app\\src\\main\\res\\mipmap-mdpi\\sucai3.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\Project\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\AndroidProjects\\Project\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

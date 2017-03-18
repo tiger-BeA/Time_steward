@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "E:\\AndroidProjects\\Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\user.png",
+        "source": "E:\\AndroidProjects\\Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\user.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\format_clear.png",
+        "source": "E:\\AndroidProjects\\Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\format_clear.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_account_box_black_24dp.png",
+        "source": "E:\\AndroidProjects\\Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_account_box_black_24dp.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_group_black_24dp.png",
+        "source": "E:\\AndroidProjects\\Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_group_black_24dp.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\add.png",
+        "source": "E:\\AndroidProjects\\Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\add.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\sleep.png",
+        "source": "E:\\AndroidProjects\\Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\sleep.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\daily_route.png",
+        "source": "E:\\AndroidProjects\\Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\daily_route.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\note.png",
+        "source": "E:\\AndroidProjects\\Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\note.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\basketball.png",
+        "source": "E:\\AndroidProjects\\Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\basketball.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\calendar.png",
+        "source": "E:\\AndroidProjects\\Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\calendar.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\gamepad.png",
+        "source": "E:\\AndroidProjects\\Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\gamepad.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\save.png",
+        "source": "E:\\AndroidProjects\\Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\save.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\refresh.png",
+        "source": "E:\\AndroidProjects\\Project\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\refresh.png"
+    }
+]
